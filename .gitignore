@@ -1,0 +1,35 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# RStudio files
+.Rproj.user/
+.Rproj.user
+.Rproj
+
+# Temporary files created by R
+*.RData
+*.Rhistory
+*.Ruserdata
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Plots or figures output directory (if you use one)
+plots/
