@@ -1,0 +1,47 @@
+DATA LICENSE AND DISCLAIMER
+===========================
+
+License for Dataset (training_data.csv)
+---------------------------------------
+
+The dataset in this repository (`training_data.csv`) is licensed under the 
+Creative Commons Attribution-NonCommercial 4.0 International License 
+(CC BY-NC 4.0).
+
+You are free to:
+- Use, copy, and adapt the dataset for non-commercial purposes such as 
+  teaching, demonstration, training, workshops, or educational materials.
+
+Under the following terms:
+- Attribution is required. Please credit the author (Binaya Chalise).
+- Non-commercial use only. You may not use the dataset for commercial 
+  purposes.
+- No additional restrictions may be applied.
+
+For full legal text of CC BY-NC 4.0, see:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+
+Data Disclaimer
+----------------
+
+The dataset in this repository is **fully simulated** and represents a 
+hypothetical vocational training program. It does NOT contain real individuals, 
+real program data, or real survey information.
+
+IMPORTANT:
+- This dataset is NOT suitable for empirical research.
+- It must NOT be used for secondary data analysis, systematic reviews, 
+  meta-analysis, or policy decisions.
+- Any resemblance to real persons or programs is coincidental.
+
+Purpose of Dataset
+------------------
+
+This dataset was created solely for:
+- Demonstrating model dependence in policy evaluation,
+- Educational examples,
+- Blog writing,
+- Training in causal inference and statistical modeling.
+
+It should only be used in these contexts.
