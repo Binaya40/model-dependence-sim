@@ -18,7 +18,7 @@ This resource is designed for:
 
 ## Repository Contents
 
-### **1. `training_data.csv`**
+### **1. [`training_data.csv`](training_data.csv)**
 A fully simulated dataset representing a hypothetical vocational training intervention. The dataset contains following variables:
 - **Outcome (y):** Monthly earnings (log-normal).  
 - **Treatment (T):** Participation in a training program (non-random; depends on covariates).  
@@ -33,23 +33,23 @@ A fully simulated dataset representing a hypothetical vocational training interv
 **NOTE:** This dataset is not real and should not be used for research.  
 See `DATA_LICENSE.txt` for license and disclaimer.
 
-### **2. `code/simulation.R`**
+### **2. [`code/simulation.R`](code/simulation.R)**
 Code to generate the simulated dataset. The simulation encodes:
 - *True treatment effect that differs for married vs. unmarried groups*  
 - *Strong selection into treatment based on covariates*
 - *Measurement error in schooling*
 - *Selection into the observed sample (S=1)*
 
-### **3. `code/analysis.R`**
+### **3. [`code/analysis.R`](code/analysis.R)**
 R script demonstrating:
 - Construction of multiple model specifications  
 - Comparison of estimated program effects under different models  
 - Visualization of how causal conclusions change depending on modeling choices  
 
-### **4. `DATA_LICENSE.txt`**
+### **4. [`DATA_LICENSE.txt`](DATA_LICENSE.txt)**
 The dataset is released under **CC BY-NC 4.0** and includes a full disclaimer stating that the data is simulated and unsuitable for empirical research.
 
-### **5. `LICENSE`**
+### **5. [`LICENSE`](LICENSE)**
 MIT License for code. You may reuse or modify the **code** for any purpose.
 
 ---
