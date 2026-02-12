@@ -85,7 +85,7 @@ https://binayachalise.com.np/2025/12/05/251206/
 
 If you use or reference this repository in teaching materials or presentations:
 
-Binaya Chalise (2025). *Understanding Model Dependence in Policy Evaluation: A Simulated Vocational Training Example*. GitHub Repository.
+Binaya Chalise (2025). *Understanding Model Dependence in Policy Evaluation: A Simulated Vocational Training Example*. GitHub Repository. Available at https://github.com/Binaya40/model-dependence-sim
 
 ---
 
